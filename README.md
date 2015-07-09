@@ -1,6 +1,7 @@
 # JsonOrDefaultModelBinder
-A replacement MVC model binder that allows properties to be in serialized JSON form allowing Angular / Knockout whatever you want to manage segments of your MVC view's model.
-==============
+Introduction
+--------------
+This is a replacement MVC model binder that allows properties to be in serialized JSON form allowing Angular / Knockout whatever you want to manage segments of your MVC view's model.
 
 I apologise for this being all in VB.net. Also the example below is just a simple guideline. I know it is not how you should ng :)
 
